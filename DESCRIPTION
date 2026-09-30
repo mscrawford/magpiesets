@@ -11,7 +11,8 @@ Authors@R: c(
     person("Isabelle", "Weindl", , "weindl@pik-potsdam.de", role = "aut"),
     person("Edna", "Molina Bacca", , "mbacca@pik-potsdam.de", role = "aut"),
     person("Patrick", "von Jeetze", , "vjeetze@pik-potsdam.de", role = "aut"),
-    person("Jan Philipp", "Dietrich", , "dietrich@pik-potsdam.de", role = "aut")
+    person("Jan Philipp", "Dietrich", , "dietrich@pik-potsdam.de", role = "aut"),
+    person("Michael", "Crawford", , "crawford@pik-potsdam.de", role = "aut")
   )
 Description: A library containing MAgPIE sets and other support functions.
 License: LGPL-3 | file LICENSE

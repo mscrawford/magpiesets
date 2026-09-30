@@ -30,6 +30,9 @@ authors:
 - family-names: Dietrich
   given-names: Jan Philipp
   email: dietrich@pik-potsdam.de
+- family-names: Crawford
+  given-names: Michael
+  email: crawford@pik-potsdam.de
 license: LGPL-3.0
 repository-code: https://github.com/pik-piam/magpiesets
 doi: 10.5281/zenodo.1158588
